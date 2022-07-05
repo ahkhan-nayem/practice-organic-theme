@@ -1,2 +1,2 @@
-# practice-organic-theme
-practice-organic-theme
+# practice-organic-store
+practice-organic-store
